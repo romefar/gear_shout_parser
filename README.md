@@ -1,5 +1,5 @@
 # Gear shout parser
-A simple React Native html-parser for gearshout.net. 
+A simple React Native html-parser for gearshout.net news feed. 
 This project is using **Expo**. In order to run this project you have to download the latest Expo client app from Google Play/App store.
 
 ## Usage
@@ -20,7 +20,7 @@ npm start or expo start
 - expo;
 - expo-barcode-scanner;
 - expo-permissions;
-- uuid;;
+- uuid;
 - react-native-cheerio;
 - react-native-auto-height-image;
 - react-native-qrcode-svg;
