@@ -10,6 +10,7 @@ Open the project and type in console:
 - news sharing with qr code;
 - qr code scanning;
 - caching 5 latest news with images.
+
 `
 npm start / or expo start
 `
