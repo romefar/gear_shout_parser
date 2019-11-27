@@ -5,15 +5,15 @@ This project is using **Expo**. In order to run this project you have to downloa
 ## Usage
 Open the project and type in console:
 
+`
+npm start / or expo start
+`
+
 ## Functionality
 - html parsing;
 - news sharing with qr code;
 - qr code scanning;
 - caching 5 latest news with images.
-
-`
-npm start / or expo start
-`
 
 ## Main dependencies
 - expo;
