@@ -6,7 +6,7 @@ This project is using **Expo**. In order to run this project you have to downloa
 Open the project and type in console:
 
 `
-npm start / or expo start
+npm start or expo start
 `
 
 ## Functionality
