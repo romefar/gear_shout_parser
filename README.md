@@ -13,7 +13,8 @@ npm start / or expo start
 - html parsing;
 - news sharing with qr code;
 - qr code scanning;
-- caching 5 latest news with images.
+- caching 5 latest news with images;
+- track internet connection.
 
 ## Main dependencies
 - expo;
